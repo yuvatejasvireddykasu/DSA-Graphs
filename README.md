@@ -38,6 +38,14 @@ This repository contains implementation and theory notes for all important Graph
 14. MST using Kruskal's Algorithm  
 15. Tarjan’s Algorithm (SCC – 1 DFS)  
 16. Bridges in Graph  
-17. Articulation Point / Vertex  
+17. Articulation Point / Vertex
+
+---
+
+# 📝 Topic Notes in this Repository
+
+- [Cycle Detection](Cycle%20Detection.md)
+- [Bipartite Graph](Bipharatite%20Graph.md)
+- [Number of Connected Components](Number%20of%20Connected%20Components.md)
 
 ---
