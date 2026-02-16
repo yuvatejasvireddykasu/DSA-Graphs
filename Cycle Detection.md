@@ -252,3 +252,22 @@ All four methods run in:
 
 O(V + E)
 
+# 🔁 Cycle Detection – Important Links
+
+## LeetCode
+
+- https://leetcode.com/problems/course-schedule/
+- https://leetcode.com/problems/course-schedule-ii/
+- https://leetcode.com/problems/redundant-connection/
+- https://leetcode.com/problems/redundant-connection-ii/
+- https://leetcode.com/problems/detect-cycles-in-2d-grid/
+- https://leetcode.com/problems/find-eventual-safe-states/
+
+---
+
+## Striver Sheet (GFG)
+
+- https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+- https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+- https://practice.geeksforgeeks.org/problems/topological-sort/1
+
