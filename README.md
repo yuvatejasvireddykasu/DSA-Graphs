@@ -31,13 +31,14 @@ This repository contains implementation and theory notes for all important Graph
 9. Dijkstra's Algorithm (SSSP)  
 10. Bellman-Ford Algorithm (SSSP)  
 11. Floyd-Warshall Algorithm (Multi-source Shortest Path)  
-12. MST using Prim's Algorithm  
-13. Disjoint Set (Union-Find)  
+12. Shortest Path Roadmap  
+13. MST using Prim's Algorithm  
+14. Disjoint Set (Union-Find)  
     - Union by Rank  
     - Union by Size  
-14. MST using Kruskal's Algorithm  
-15. Tarjan’s Algorithm (SCC – 1 DFS)  
-16. Bridges in Graph  
-17. Articulation Point / Vertex  
+15. MST using Kruskal's Algorithm  
+16. Tarjan’s Algorithm (SCC – 1 DFS)  
+17. Bridges in Graph  
+18. Articulation Point / Vertex  
 
 ---
