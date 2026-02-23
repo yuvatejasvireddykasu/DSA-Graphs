@@ -41,4 +41,14 @@ This repository contains implementation and theory notes for all important Graph
 17. Bridges in Graph  
 18. Articulation Point / Vertex  
 
+
+---
+
+# 📝 Topic Notes in this Repository
+
+- [Cycle Detection](Cycle%20Detection.md)
+- [Bipartite Graph](Bipharatite%20Graph.md)
+- [Number of Connected Components](Number%20of%20Connected%20Components.md)
+
+
 ---
